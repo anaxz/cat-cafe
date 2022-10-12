@@ -1,0 +1,31 @@
+cat cafe
+- cafe that serves both humans and cats
+- no you can't take your own pets in (nor take ours away!)
+- 
+
+index.html
+- navbar, not dropdown
+- 
+
+booking.html
+- 
+- form
+
+menu
+- cat treats
+- human food
+
+____Quick Bootsrap notes_____
+container
+ > row
+  > col
+
+-Imagine 12 col grid
+-Breakpt naming convention: col-{Breakpoint}-{width} 
+
+-check intro, start template on their site to double check/get basic template
+-2 different navs same result but will depend whether what design layout you want
+
+debug notes:
+- slider not working why? -> already checked it works with bootstrap5 so why? 11/10/22
+- prev button not working ??????
