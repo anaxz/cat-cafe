@@ -4,14 +4,19 @@ cat cafe
 - 
 
 index.html
-- navbar, not dropdown
-- 
+- shop icon sign next to navbar, not dropdown
+- slider
+- meet the team
+
+footer
+- include mini nav?
 
 booking.html
-- 
+- jumbo
 - form
 
-menu
+menu.html
+- jumbo
 - cat treats
 - human food
 
@@ -27,5 +32,6 @@ container
 -2 different navs same result but will depend whether what design layout you want
 
 debug notes:
-- slider not working why? -> already checked it works with bootstrap5 so why? 11/10/22
-- prev button not working ??????
+- slider not working why? -> already checked it works with bootstrap5 so why? (12/10/22)
+-FIXED-> wrong file name -.- && fixed scaling of image to fit within slider (12/10)
+- prev button not working (12/10)
