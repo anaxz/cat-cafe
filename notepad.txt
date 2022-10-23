@@ -33,5 +33,6 @@ container
 
 debug notes:
 - slider not working why? -> already checked it works with bootstrap5 so why? (12/10/22)
--FIXED-> wrong file name -.- && fixed scaling of image to fit within slider (12/10)
+-FIXED-> wrong file name && fixed scaling of image to fit within slider (12/10)
 - prev button not working (12/10)
+- slider-image not fit content when resize larger (15/10)
